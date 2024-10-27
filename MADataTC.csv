@@ -1,0 +1,29 @@
+Author,n,Mean Difference,TE,seTE,Ecosystem,Country
+Reinmann & Hutyra,8,40.61705,3.531917391,0.913159216,Temperate,US
+Saeed et al.,8,-47.02,-0.3716996047,0.2506835899,Tropical,China
+Ma et al.,3,-57.45,0,0.3802007365,Subtropical,China
+de Paula et al.,20,-127.8,-4.08,0.6616969775,Tropical,Brazil
+Nunes et al.,22,-16.68485,-0.8025624051,0.1853388797,Tropical,Brazil
+Astiani et al.,24,-48.05,-3.501366298,0.5229499967,Tropical,Indonesia
+Morreale et al.,6607,34.84862221,0.9546483558,0.01160193497,Temperate,US
+Shapiro et al.,216,-158.7425,-3.515233528,0.1749615193,Tropical,Democratic Republic of Congo
+Shen at al.,207,-60.795,-3.028615385,0.1557266491,Subtropical,China
+Brando et al.,70,-33.775,-1.670055351,0.1616080018,Tropical,Brazil
+Young & Mitchell,20,38.053597,4.885482377,0.7863722665,Subtropical,New Zealand
+Ordway & Asner,27,-50,-0.9696969697,0.1829606218,Tropical,Malaysia
+Harper 1997,5,-359.4055569,-5.10519257,1.641045605,Boreal,Canada
+Harper 1998,5,-370.6359888,-5.26471575,1.690696529,Boreal,Canada
+Harper 2011,5,-418.6703242,-5.947021651,1.903533086,Boreal,Canada
+Harper 2003,5,-135.3543002,-1.92264631,0.6755652768,Boreal,Canada
+Harper 2001,5,-30.247214,-0.4296479261,0.3243320737,Boreal,Canada
+US Forest Service PR,5,-88.77582314,-2.774569618,0.9255026831,Subtropical,US (Puerto Rico)
+US Forest Service AS,1,-41.32409059,-1.133525543,1.037351377,Tropical,US (American Samoa)
+US Forest Service AK,1,-131.5211932,-3.202463995,2.358292946,Boreal,US
+US Forest Service AL1,5,21.6062005,0.6752728992,0.3637731557,Subtropical,US
+US Forest Service AL2,5,28.02913142,0.8760130147,0.4043160152,Subtropical,US
+US Forest Service LA1,5,21.724936,0.6789838184,0.3644632527,Subtropical,US
+US Forest Service LA2,5,-28.68038933,-0.8963672096,0.408752954,Subtropical,US
+US Forest Service MN1,4,16.81027718,0.3238662399,0.3486052462,Temperate,US
+US Forest Service MN2,4,83.6850902,1.612274159,0.6582878894,Temperate,US
+US Forest Service MN3,4,23.86303519,0.4597444406,0.3671989499,Temperate,US
+US Forest Service MN4,4,14.97868746,0.2885788934,0.3447088224,Temperate,US

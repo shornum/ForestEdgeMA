@@ -1,0 +1,36 @@
+Author,n,Mean Difference,SD,TE,seTE,Ecosystem,Country
+Oosterhoorn & Kappelle,12,-0.35,0.47,-0.6873977087,0.1837851111,Tropical,Costa Rica
+Bonesso Sampaio & Scariot,10,0.1,0.13333333,0.6774193718,0.1996282301,Tropical,Brazil
+Kacholi,6,-0.37,0.19,-1.557894737,0.4800319096,Tropical,Tanzania
+Addo-Fordjour et al.,35,0.1,0.9,0.1085665818,0.07070242496,Tropical,Ghana
+Sulistyawati & Fatmawati Tihurua,6,-0.496666666,0.39,-1.018803417,0.3386359898,Tropical,Indonesia
+Gallo Oliveira et al.,12,0.02,0.111,0.1663201663,0.1234561322,Tropical,Brazil
+Picchio et al. (a),10,0.4,0.5,0.7225806452,0.2073950806,Temperate,Iran
+Picchio et al. (b),10,1,0.5,1.806451613,0.4243464993,Temperate,Italy
+Picchio et al. (c),10,0.45,0.5,0.8129032258,0.2234886188,Temperate,Italy
+Alignier et al. (a),20,0.1,0.1,0.9577464789,0.1771588212,Temperate,France
+Alignier et al. (b),20,0.1,0.1,0.9577464789,0.1771588212,Temperate,France
+Alignier et al. (c),20,0.1,0.05,1.915492958,0.3165140151,Temperate,France
+Hardt et al.,36,0.45,0.2,2.2,0.2681762377,Tropical,Brazil
+Armenteras et al.,6,-1.65,0.4,-3.3,0.9673043127,Tropical,Colombia
+Ofosu-Bamfo et al.,8,0.05,0.91,0.04777830865,0.1458625995,Tropical,Ghana
+Šálek et al.,54,0.65,0.2,3.202898551,0.3132371414,Temperate,Czech Republic
+Zhang et al.,43,0.4,0.34,1.154817755,0.139423049,Boreal,Sweden
+Zamani et al.,240,1.02,0.63,1.613940213,0.07830142895,Temperate,Iran
+Harper 1997a,1,0.228875,0.4085369,0.8963694589,0.7555163158,Boreal,Canada
+Harper 2003a,1,-0.085875,0.2616748,-0.5250792205,0.5540035143,Boreal,Canada
+Harper 1996,1,0.169666667,0.2906964,0.9338494292,0.7778837819,Boreal,Canada
+Harper 1997b,1,0.2126666666,0.3168384,1.073943899,0.8635644439,Boreal,Canada
+Harper 1997c,1,0.1351,0.2628754,0.8222907126,0.7121424071,Boreal,Canada
+Harper 2003b,1,0.1865,0.4791369,0.6227865147,0.6024925903,Boreal,Canada
+Harper 2003c,1,-0.114238167,0.2870179,-0.6368281114,0.6097875218,Boreal,Canada
+Harper 2003d,1,0.11275,0.0860038,2.097581735,1.539152483,Boreal,Canada
+Wang & Yang,9,-0.3,0.3,-0.8888888889,0.2503614117,Subtropical,China
+Santos Bianchi & de Andrade Kersten,4,-0.41,0.62,-0.3778801843,0.2451848878,Subtropical,Brazil
+Jiang et al.,16,0.3,0.7,0.4051948052,0.1252889698,Subtropical,China
+Ruwanza,9,0.25,0.15,1.481481481,0.3751236078,Subtropical,South Africa
+Bordin et al. (a),5,-0.23,0.6,-0.2787878788,0.2039250552,Subtropical,Brazil
+Bordin et al. (b),5,0,0.6,0,0.1838835501,Subtropical,Brazil
+Bordin et al. (c),5,-0.85,0.6,-1.03030303,0.3741197581,Subtropical,Brazil
+Bordin et al. (d),5,0.51,0.6,0.6181818182,0.2683803943,Subtropical,Brazil
+Bordin et al. (e),5,0,0.6,0,0.1838835501,Subtropical,Brazil

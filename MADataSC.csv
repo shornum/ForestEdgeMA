@@ -1,0 +1,25 @@
+Author,n,Mean Difference,SD,TE,seTE,Ecosystem,Country
+Barros & Fearnside,202,-0.29,8.39,-0.03456495828,0.1235329228,Tropical,Brazil
+Saeed et al.,4,-7.37,14.5,-0.2904433498,0.8837673152,Tropical,China
+Ma et al.,3,-47.3,9.7,0,1.013574533,Subtropical,China 
+Bae & Ryu,474,-37.5,25,-1.5,0.09421001765,Temperate,Korea
+Nagano et al.,7,-4.2,5.39,-0.6561859193,0.6863245776,Temperate,Japan
+Schedlbauer & Miller,10,-5.06,2.76,-1.655913978,0.6673099394,Temperate,US
+US Forest Service AK1,5,-2.94,7.24,-0.2953289804,0.7906465207,Boreal,US
+US Forest Service AK2,5,-1.23,7.24,-0.123556002,0.7860830799,Boreal,US
+US Forest Service AK3,5,-0.53,7.24,-0.0532395781,0.7852919491,Boreal,US
+US Forest Service AK4,5,2.8,7.24,0.2812656956,0.7901335578,Boreal,US
+US Forest Service AK5,5,-3.42,7.24,-0.3435459568,0.7925921918,Boreal,US
+US Forest Service FL1,3,9.79,7.95,0,1.013574533,Tropical,US
+US Forest Service FL2,3,-12.36,7.95,0,1.013574533,Tropical,US
+US Forest Service FL3,3,-10.83,7.95,0,1.013574533,Tropical,US
+US Forest Service AL1,4,-19.09,13.18,-0.8276609582,0.9252717615,Subtropical,US
+US Forest Service AL2,4,2.43,13.18,0.1053544331,0.8785712518,Subtropical,US
+US Forest Service LA1,4,16.23,13.18,0.7036635595,0.9123556328,Subtropical,US
+US Forest Service LA2,4,3.95,13.18,0.1712551485,0.8798670586,Subtropical,US
+US Forest Service IL1,6,-16.08,2.88,-4.466666667,1.475214987,Temperate,US
+US Forest Service MN1,6,-1.97,2.88,-0.5472222222,0.7339080415,Temperate,US
+US Forest Service MN2,6,-20.18,2.88,-5.605555556,1.76979879,Temperate,US
+US Forest Service MN3,6,-21.82,2.88,-6.061111111,1.890790573,Temperate,US
+US Forest Service MN4,6,-20.07,2.88,-5.575,1.761737424,Temperate,US
+US Forest Service MN5,6,-25.51,2.88,-7.086111111,2.167505684,Temperate,US
