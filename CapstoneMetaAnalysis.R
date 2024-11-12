@@ -119,7 +119,8 @@ meta::forest(mgen_SC,
              sortvar = TE,
              prediction = F,
              print.tau2 = F,
-             leftlabs = c("Author", "g", "SE"),
+             leftlabs = c("Author", "Country"),
+             leftcol = c("Author", "Country"), 
              hetstat = F,
              test.subgroup = F)
 dev.off()
@@ -130,7 +131,8 @@ meta::forest(mgen_TC,
              sortvar = TE,
              prediction = F,
              print.tau2 = F,
-             leftlabs = c("Author", "g", "SE"),
+             leftlabs = c("Author", "Country"),
+             leftcol = c("Author", "Country"), 
              hetstat = F,
              test.subgroup = F)
 dev.off()
@@ -141,7 +143,8 @@ meta::forest(mgen_mort,
              sortvar = TE,
              prediction = F,
              print.tau2 = F,
-             leftlabs = c("Author", "g", "SE"),
+             leftlabs = c("Author", "Country"),
+             leftcol = c("Author", "Country"), 
              hetstat = F,
              test.subgroup = F)
 dev.off()
@@ -152,7 +155,8 @@ meta::forest(mgen_div,
              sortvar = TE,
              prediction = F,
              print.tau2 = F,
-             leftlabs = c("Author", "g", "SE"),
+             leftlabs = c("Author", "Country"),
+             leftcol = c("Author", "Country"), 
              hetstat = F,
              test.subgroup = F)
 dev.off()
@@ -163,7 +167,8 @@ meta::forest(mgen_AB,
              sortvar = TE,
              prediction = F,
              print.tau2 = F,
-             leftlabs = c("Author", "g", "SE"),
+             leftlabs = c("Author", "Country"),
+             leftcol = c("Author", "Country"), 
              hetstat = F,
              test.subgroup = F)
 dev.off()
@@ -174,7 +179,8 @@ meta::forest(mgen_BB,
              sortvar = TE,
              prediction = F,
              print.tau2 = F,
-             leftlabs = c("Author", "g", "SE"),
+             leftlabs = c("Author", "Country"),
+             leftcol = c("Author", "Country"), 
              hetstat = F,
              test.subgroup = F)
 dev.off()
